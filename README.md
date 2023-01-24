@@ -4,9 +4,9 @@
 
 1. [Introduction](#introduction)
 2. [Installation](#installation)
-3. [Default mappings](#default mappings)
+3. [Default mappings](#default-mappings)
 4. [Configuration](#configuration)
-4. [Functions](#functions)
+5. [Functions](#functions)
 
 ## Introduction
 
@@ -25,7 +25,7 @@ Install the plugin with you preferred plugin manager.
     use { 'dk949/pdf.vim', ft = { "pdf" } }
 ```
 
-## Default mappings ~
+## Default mappings
 
 By default pages are turned with arrow keys. The cursor still moves as normal.
 

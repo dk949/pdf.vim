@@ -18,11 +18,11 @@ Install the plugin with you preferred plugin manager.
 
 * Vundle example
 ``` vim
-  Plugin 'dk949/pdf.vim'
+Plugin 'dk949/pdf.vim'
 ```
 * Packer example
 ``` lua
-    use { 'dk949/pdf.vim', ft = { "pdf" } }
+use { 'dk949/pdf.vim', ft = { "pdf" } }
 ```
 
 ## Default mappings
